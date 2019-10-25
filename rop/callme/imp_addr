@@ -1,0 +1,11 @@
+4 0x00401810  GLOBAL    FUNC callme_three
+   8 0x00401850  GLOBAL    FUNC callme_one
+  11 0x00401870  GLOBAL    FUNC callme_two
+
+
+0x0000000000401ab0: pop rdi; pop rsi; pop rdx; ret; 
+
+
+Found at offset 40 (big-endian search) 
+
+

@@ -1,0 +1,11 @@
+[+] Found at offset 40 (big-endian search)
+
+data  0000000000601050
+
+0x0000000000400820  usefulGadgets
+
+0x0000000000400890: pop r14; pop r15; ret; 
+
+0x0000000000400893: pop rdi; ret;
+
+

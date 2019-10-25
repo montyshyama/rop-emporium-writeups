@@ -1,0 +1,9 @@
+.data    0000000000601070 
+0x0000000000400b30  usefulGadgets
+0x0000000000400b39: pop rdi; ret; 
+0x0000000000400b3b: pop r12; pop r13; ret; 
+0x0000000000400b34 mov    QWORD PTR [r13+0x0],r12
+0x0000000000400b30 <+0>:	xor    BYTE PTR [r15],r14b
+0x0000000000400b40 <+16>:	pop    r14; pop r15; ret;
+
+
